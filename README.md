@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/shortener_url.png)
+![urlshortener](https://github.com/Siddarthan999/URL-Shortener/assets/91734840/133d4ade-0401-4f2f-a67d-3afbaf2a928f)
 
 ## Available Scripts
 
